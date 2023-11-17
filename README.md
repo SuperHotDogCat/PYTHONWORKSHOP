@@ -1,5 +1,9 @@
 # PYTHONWORKSHOP
-全人類がPythonのリポジトリを読むときに困らないように教えるしかないと思った
+全人類がPythonのリポジトリを読むときにPythonの基本的な文法で困らないように教えるしかないと思った。
+
+### このリポジトリの使い方
+- python_workshop.ipynbに説明とコードが書いてあります。
+- graph_template.ipynbとadvanced_graph_template.ipynbはmatplotlibの細かい部分まで突っ込んだ説明ファイルです
 
 # マジで申し訳ないこと
 LinuxとMacだと大半のコードは動くと思うんですけどWindowsだと動くかわからない
